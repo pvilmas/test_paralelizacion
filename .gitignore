@@ -1,0 +1,14 @@
+# Ignore all .xml files
+*.xml
+
+# Ignore all .log files
+*.log
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all .sif files
+*.sif
+
+# Ignore all subdirectories
+*/
